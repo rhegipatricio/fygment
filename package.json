@@ -1,0 +1,22 @@
+{
+  "name": "fygment",
+  "version": "1.0.0",
+  "description": "The social media platform for creative minds. Creativation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhegipatricio/fygment.git"
+  },
+  "author": "Rheginald Patricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhegipatricio/fygment/issues"
+  },
+  "homepage": "https://github.com/rhegipatricio/fygment#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
